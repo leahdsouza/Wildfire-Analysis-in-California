@@ -21,7 +21,7 @@ This dataset contains **daily records** of wildfire and weather conditions, incl
 | `LAGGED_AVG_WIND_SPEED` | Previous 7-day wind speed |
 | `MONTH`, `YEAR`, `DAY_OF_YEAR` | Temporal indicators for trend analysis |
 
-📌 **Source:Yavas, C. E., Kadlec, C., kim, J., & Chen, L. (2025). California Weather and Fire Prediction Dataset (1984–2025) with Engineered Features [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14712845**
+📌 Source:Yavas, C. E., Kadlec, C., kim, J., & Chen, L. (2025). California Weather and Fire Prediction Dataset (1984–2025) with Engineered Features [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14712845
 ---
 
 ## **📈 Key Analysis**
@@ -43,7 +43,7 @@ We use statistical hypothesis testing to check if **hotter days are more likely 
 
 ---
 
-## **🚀 Installation & Setup**
+## **Installation & Setup**
 ### **🔹 Requirements**
 Ensure you have **Python 3.8+** and install the required libraries:
 ```bash
@@ -65,11 +65,11 @@ jupyter notebook
 
 ## **📂 Project Structure**
 ```
-📂 wildfire-analysis-in-california
- ┣ 📜 main.ipynb  # Jupyter Notebook with full analysis
- ┣ 📜 CA_Weather_Fire_Dataset.csv        # Dataset (not included, download separately)
- ┣ 📜 README.md                # Project documentation
- ┣ 📜 requirements.txt         # Required Python packages
+📂 Wildfire-Analysis-In-California
+ ┣ 📜 main.ipynb # Jupyter Notebook with full analysis
+ ┣ 📜 CA_Weather_Fire_Dataset.csv # Dataset (not included, download separately)
+ ┣ 📜 README.md # Project documentation
+ ┣ 📜 requirements.txt # Required Python packages
 ```
 
 ---
