@@ -13,10 +13,10 @@ This dataset contains **daily records** of wildfire and weather conditions, incl
 | Feature | Description |
 |---------|------------|
 | `DATE` | Date of observation |
-| `FIRE_START_DAY` | 🔥 Binary indicator (1 = Fire started, 0 = No fire) |
-| `MAX_TEMP` | 🌡️ Maximum daily temperature (°F) |
-| `AVG_WIND_SPEED` | 💨 Average wind speed (mph) |
-| `PRECIPITATION` | ☔ Daily precipitation (inches) |
+| `FIRE_START_DAY` | Binary indicator (1 = Fire started, 0 = No fire) |
+| `MAX_TEMP` | Maximum daily temperature (°F) |
+| `AVG_WIND_SPEED` | Average wind speed (mph) |
+| `PRECIPITATION` | Daily precipitation (inches) |
 | `LAGGED_PRECIPITATION` | Previous 7-day precipitation |
 | `LAGGED_AVG_WIND_SPEED` | Previous 7-day wind speed |
 | `MONTH`, `YEAR`, `DAY_OF_YEAR` | Temporal indicators for trend analysis |
