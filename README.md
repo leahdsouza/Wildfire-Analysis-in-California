@@ -21,7 +21,7 @@ This dataset contains **daily records** of wildfire and weather conditions, incl
 | `LAGGED_AVG_WIND_SPEED` | Previous 7-day wind speed |
 | `MONTH`, `YEAR`, `DAY_OF_YEAR` | Temporal indicators for trend analysis |
 
-📌 Source:Yavas, C. E., Kadlec, C., kim, J., & Chen, L. (2025). California Weather and Fire Prediction Dataset (1984–2025) with Engineered Features [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14712845
+📌 #### Source:Yavas, C. E., Kadlec, C., kim, J., & Chen, L. (2025). California Weather and Fire Prediction Dataset (1984–2025) with Engineered Features [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14712845
 ---
 
 ## **📈 Key Analysis**
@@ -53,7 +53,7 @@ pip install pandas numpy matplotlib seaborn scipy statsmodels jupyter
 ### **🔹 Running the Analysis**
 1. Clone the repository:
 ```bash
-git clone https://github.com/leahdsouza/Wildfire-Analysis-in-California
+git clone https://github.com/leahdsouza/Wildfire-Analysis-in-California.git
 ```
 2. Open **Jupyter Notebook**:
 ```bash
