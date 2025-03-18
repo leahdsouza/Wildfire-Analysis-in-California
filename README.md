@@ -2,9 +2,9 @@
 
 ## **📌 Project Overview**
 This project explores **historical wildfire patterns in California from 1984 to 2023**, using **weather and fire occurrence data**. Through **exploratory data analysis and hypothesis testing**, we aim to understand:
-- 📊 **How wildfire frequency has changed over time**  
+- 📈 **How wildfire frequency has changed over time**  
 - 🌡️ **How temperature, wind speed, and precipitation influence wildfires**  
-- 🛠️ **Which months are most fire-prone**  
+- 📊 **Which months are most fire-prone**  
 ---
 
 ## **📊 Dataset Overview**
